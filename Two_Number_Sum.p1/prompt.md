@@ -4,7 +4,7 @@ Write a function that takes in a non-empty array of distinct integers and an int
 
 Note that the target sum has to be obtained by summing two different integers in the array; you can't add a single integer to itself in order to obtain the target sum.
 
-You can assume that there will be at most on pair of numbers summing to the target sum.
+You can assume that there will be at most one pair of numbers summing to the target sum.
 
 
 ### Sample Input:
