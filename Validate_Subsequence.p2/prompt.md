@@ -12,4 +12,4 @@ A subsequence of an array is a set of numbers that aren't necessarily adjacent i
 
 ### Sample Output:
 	
-	true
+	True
