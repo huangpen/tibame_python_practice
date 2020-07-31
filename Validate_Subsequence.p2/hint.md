@@ -1,4 +1,4 @@
-# Two Number Sum [Hint]
+# Validate Subsequence [Hint]
 
 ### This section provides one or more hints. Later hints gives more detail! Try to think before you check hints.
 
