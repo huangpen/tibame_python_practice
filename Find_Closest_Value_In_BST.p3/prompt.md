@@ -24,9 +24,9 @@ Each **BST** node has an integer **value**, a **left** child node, and a **right
 	13
 
 
-### Note: tree
+### Note:
 
-    A Binary Tree is represented by a list of **nodes** and a **root** node. Every node has to have a unique string **id** that will be referenced by other nodes' **left** and **right** pointers and by the **root**. A data structure example of the above is shown below:
+    A Binary Tree is represented by a list of nodes and a root node. Every node has to have a unique string id that will be referenced by other nodes' left and right pointers and by the root. A data structure example of the above is shown below:
 
        {
          "nodes": [
@@ -42,3 +42,11 @@ Each **BST** node has an integer **value**, a **left** child node, and a **right
   	 ],
   	 "root": "10"
        }
+       
+The code representation of BST is in class construct, something like this:
+
+	class BST:
+    	def __init__(self, value):
+        		self.value = value
+        		self.left = None
+        		self.right = None
