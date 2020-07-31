@@ -39,8 +39,8 @@ Each **BST** node has an integer **value**, a **left** child node, and a **right
     	    {"id": "5-2", "left": null, "right": null, "value": 5},
     	    {"id": "2", "left": "1", "right": null, "value": 2},
     	    {"id": "1", "left": null, "right": null, "value": 1}
-  	 ],
-  	 "root": "10"
+  	     ],
+  	     "root": "10"
        }
        
 The code representation of BST is of class construct, something like this:
