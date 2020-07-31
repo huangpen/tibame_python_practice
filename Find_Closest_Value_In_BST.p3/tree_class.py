@@ -19,7 +19,6 @@ class treeNode:
 
 
     def build_tree(self, nodes):
-
         for each in nodes:
             if each['id'] == self.identity:
                  left_ind = self.findID_helper(nodes,each['left'])
@@ -28,12 +27,10 @@ class treeNode:
                      self.insertLeft(each['left'], nodes[left_ind]['value'])
                  if right_ind is not None:
                      self.insertRight(each['right'], nodes[right_ind]['value'])
-
         if self.left is not None:
             self.left.build_tree(nodes)
         if self.right is not None:
             self.right.build_tree(nodes)
-
         return self
 
     @staticmethod    
