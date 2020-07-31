@@ -15,7 +15,7 @@ Each **BST** node has an integer **value**, a **left** child node, and a **right
 		/ \    / \
 	       2   5  13  22
 	      /        \
-             1          14
+         1         14
 	target = 12
 	
 
