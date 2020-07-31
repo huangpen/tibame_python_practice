@@ -17,7 +17,7 @@ Try traversing the BST node by node, all the while keeping track of the node wit
     Hint 2
   </summary>
   
-Make use of the BST property to determine what side of any given node has values close to the target value ans is therefore worth exploring.
+Make use of the BST property to determine what side of any given node has values close to the target value and is therefore worth exploring.
 </details>
 
 
