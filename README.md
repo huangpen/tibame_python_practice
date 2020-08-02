@@ -4,6 +4,15 @@
 
 ## UPDATE
 
+開放Wiki，並新增演算法Part1。
+
+![wiki](https://i.ibb.co/YL3PdDg/Screen-Shot-2020-08-03-at-4-00-32-AM.png)
+
+<details>
+  <summary>
+    :owl: <b>2020-08-01 Projects新增tag</b> :owl:
+   </summary>
+  
 在 Projects 中新增tag，之後能利用filter過濾想要的主題，顏色也會區分難易度。
 ```diff
 + 簡單 (easy)
@@ -11,6 +20,7 @@
 - 進階 (Hard or above)
 ```
 ![project_tag](https://i.ibb.co/1MPVrqD/Screen-Shot-2020-08-01-at-12-48-41-AM.png)
+</details>
 
 <details>
   <summary>
