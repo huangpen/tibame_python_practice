@@ -1,4 +1,4 @@
-# Find Closest Value in BST [Hint]
+# Branch Sums [Hint]
 
 ### This section provides one or more hints. Later hints gives more detail! Try to think before you check hints.
 
