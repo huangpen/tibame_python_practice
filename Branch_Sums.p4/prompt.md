@@ -1,4 +1,4 @@
-## Find Closest Value in BST
+## Branch Sums
 
 Write a function that takes in a Binary Search Tree (BST) and returns a list of its branch sums ordered from leftmost branch sum to rightmost branch sum.
 
@@ -15,7 +15,7 @@ Each **BinaryTree** node has an integer **value**, a **left** child node, and a 
 		/ \    / \
 	       4   5  6   7
 	      / \  /   
-             8   9 10    
+         8  9 10    
 	
 
 ### Sample Output:
@@ -48,7 +48,7 @@ Each **BinaryTree** node has an integer **value**, a **left** child node, and a 
   	     "root": "1"
        }
        
-The code representation of BST is of class construct, something like this:
+The code representation of Binary Tree is of class construct, something like this:
 
 	class BST:
     	def __init__(self, value):
