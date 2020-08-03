@@ -4,7 +4,7 @@
 
 ## UPDATE
 
-開放Wiki，並新增演算法Part1。
+開放Wiki，並新增演算法Part1。記得在Chrome下載**MathJax Plugin for Github**. 
 
 ![wiki](https://i.ibb.co/YL3PdDg/Screen-Shot-2020-08-03-at-4-00-32-AM.png)
 
